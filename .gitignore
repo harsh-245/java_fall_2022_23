@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@anthoniraj 
-anthoniraj
-/
-cse1007_java_winter202122
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-cse1007_java_winter202122/.gitignore
-@anthoniraj
-anthoniraj Git Ignore file created for Java Project
-…
-Latest commit a052063 on Jan 17
- History
- 1 contributor
-84 lines (77 sloc)  1.19 KB
-
 ##############################
 ## Java
 ##############################
@@ -112,18 +82,3 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
