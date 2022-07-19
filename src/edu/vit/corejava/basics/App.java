@@ -1,7 +1,7 @@
 package edu.vit.corejava.basics;
 
 /**
- * Description: 
+ * Description: Demo Java Program
  * @author: Anthoniraj Amalanathan
  * @since: 19-Jul-2022
  */
