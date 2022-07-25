@@ -1,5 +1,8 @@
 # Introduction to Java
-## What is Java?
+## Course: Computer Programming: Java
+- Computer
+- Program
+- Java 
 
 ## JDK vs JRE vs JVM
 
