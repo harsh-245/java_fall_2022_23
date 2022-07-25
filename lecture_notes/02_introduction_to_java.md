@@ -47,3 +47,4 @@ public class App {
 
 ## Reference
 - Java Bytecode Reference: https://javaalmanac.io/
+- JDK vs JRE vs JVM: https://www.javacodemonk.com/difference-between-jdk-jre-and-jvm-6380989d
