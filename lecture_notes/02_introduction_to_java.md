@@ -39,7 +39,7 @@ public class App {
 - ByteCode - Intermediate Code for WORA (Write Once Run Anywhere)
 - JVM - Java Virtual Machine (java - for translating Bytecode into Binary)
 
-![jvm](../images/jdk_jre_jvm_01.png)
+<img src="../images/jdk_jre_jvm_01.png" alt="jvm"  width="30%" height="30%"/>
 
 ## Java Versions
 
