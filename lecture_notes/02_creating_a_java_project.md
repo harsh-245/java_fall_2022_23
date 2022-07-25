@@ -8,7 +8,7 @@ Visual Studio Code  (VS Code) is the simple and lightweight editor that can be c
 ## Install Bell Soft OpenJDK
 Download and install OpenJDK from the official website (64-Bit Full JDK)
 - https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jdk17.0.3.1+2-windows-amd64-full.msi
-- After installing the JDK, Go to Command window and check the java version,
+- After installing the JDK, Go to `Command window and check the java version,
 	- `java -version`
 
 ## Setting up the VS Code Editor
