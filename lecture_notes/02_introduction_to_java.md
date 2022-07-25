@@ -2,6 +2,11 @@
 ## Course: Computer Programming: Java
 - Computer
     - A machine or electronic device that can store and process information
+    - Von neumann Architecture
+        - Input (Keyboard)
+        - Process (CPU )
+        - Storage (RAM and SSD)
+        - Output (Monitor)
     - Computer will understand only Binary System (0/1)
 - Program 
     - Program is set of commands or instructions to the computer to do a task or job
