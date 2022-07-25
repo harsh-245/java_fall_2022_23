@@ -1,1 +1,0 @@
-# Java: Setting up the environment
