@@ -1,6 +1,8 @@
 # Introduction to Java
+- Author: `Anthoniraj Amalanathan`
+- Date(s): 25-Jul-2022
+
 ## Course: Computer Programming: Java
-- Date: 25-July-2022
 - Computer
     - A machine or electronic device that can store and process information
     - Von neumann Architecture
@@ -48,7 +50,6 @@ public class App {
 <img src="../images/jdk_jre_jvm_01.png" alt="jvm"  width="30%" height="30%"/>
 
 ## Java Versions
-- Date: 27-July-2022
 
 ## JDK Flavours
 
