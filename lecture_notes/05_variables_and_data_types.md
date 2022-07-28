@@ -1,12 +1,14 @@
 # Variables and Datatypes in Java
 Variables are containers used for storing value. Values are stored according to its type
-- primitive date types
+- Syntax: `datatype variableName = value;`
+
+- datatype-1: primitive date types
     - int
     - char
     - float
     - double
     - boolean
-- Object Data Types (Non-primitive)
+- datatype-2: Object Data Types (Non-primitive)
     - String
     - List
     
