@@ -25,7 +25,7 @@ public static void main(String[] args)
 ```java
 public static void main(String... args)
 ```
-- Triple dots (...) is a variable arguments or varargs in java which can be used as a parameter in any method. You can pass `n` number of arguments while invoking the method.
+- Triple dots (...) is a variable arguments or varargs in Java which can be used as a parameter in any method. You can pass `n` number of arguments while invoking the method.
 - `System.out.println` is a method for displaying text in console or terminal window.
 - Note: In java, we call function as "method" inside the class
 
