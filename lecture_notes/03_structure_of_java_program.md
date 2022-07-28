@@ -1,4 +1,4 @@
-# Structure of Java Program
+# Structure of a Java Program
 - Author: `Anthoniraj Amalanathan`
 - Date: 27-Jul-2022
 
