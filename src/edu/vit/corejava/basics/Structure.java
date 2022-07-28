@@ -6,8 +6,8 @@ package edu.vit.corejava.basics;
  * @since 21-Jul-2022
  */
 
-public class App {
+public class Structure {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println(args[0] + " " + args[1]);
     }
 }
