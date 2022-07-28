@@ -82,9 +82,15 @@ public class ScannerDemo {
 ## Types of Output
 ### Using PrintWriter
 ```java
-    PrintWriter out = new PrintWriter(System.out);
-    out.println("Hi There!");
-    out.flush();
+    import java.io.PrintWriter;
+
+    public class OutputDemo {
+        public static void main(String[] args) {
+            PrintWriter out = new PrintWriter(System.out);
+            out.println("Hi There!");
+            out.flush();
+        }
+    }
     
 ```
 ### using System.out.println()
@@ -92,5 +98,19 @@ public class ScannerDemo {
     - `System.out.print()` - use this method without newline after output
     - `System.out.println()` - use this method with newline after output
 - It is always recommended to use logger instead of `System.out.println()` in real time projects.
-### Using Logger
 
+### Using Logger
+- provides the ability to trace out the errors of the applications.
+
+```java
+    import java.util.logging.Logger;
+    public class OutputDemo {
+        public final static Logger logger = Logger.getLogger("global");
+        public static void main(String[] args) {       
+            logger.info("This is an information!");
+            logger.warning("Be careful!");
+            logger.severe("Error Happened!");
+
+        }
+    }
+```
