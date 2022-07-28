@@ -1,5 +1,6 @@
 # Structure of Java Program
-- Simple Hello World Java Program
+- Author: `Anthoniraj Amalanathan`
+- Date: 27-Jul-2022
 
 ```java
 public class App {
