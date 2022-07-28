@@ -1,24 +1,27 @@
 # Variables and Datatypes in Java
 Variables are containers used for storing value. Values are stored according to its type
 - Syntax: `datatype variableName = value;`
+int minimumTemperature = 10;
 
 - datatype-1: primitive date types
     - byte 
     - short 
-    - int
+    - `int`
     - long
-    - char
-    - float
+    - `char`
+    - `float`
     - double
-    - boolean
+    - `boolean`
 - datatype-2: Object Data Types (Non-primitive)
-    - String
+    - java.lang.String
     - List
 
 ## Wrapper Class
 - mechanism to convert primitive into object
-    -  int => Integer
-    -  float => Float
+    - int => Integer
+    - float => Float
+    - double => Double
+    - boolean => Boolean
     
 ## Types of variables in Java
     1. local variable
