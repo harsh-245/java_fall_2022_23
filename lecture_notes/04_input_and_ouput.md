@@ -82,7 +82,7 @@ public class ScannerDemo {
 
 ## Output using System.out.println()
 - You can use `System.out.print()` or `System.out.println()` to display the `output in console window`.
-    -- `System.out.print()` - use this method without newline after output
-    -- `System.out.println()` - use this method with newline after output
+    - `System.out.print()` - use this method without newline after output
+    - `System.out.println()` - use this method with newline after output
 - It is always recommended to use logger instead of `System.out.println()` in real time projects.
 
