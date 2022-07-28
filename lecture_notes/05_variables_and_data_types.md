@@ -3,7 +3,10 @@ Variables are containers used for storing value. Values are stored according to 
 - Syntax: `datatype variableName = value;`
 
 - datatype-1: primitive date types
+    - byte 
+    - short 
     - int
+    - long
     - char
     - float
     - double
@@ -11,6 +14,11 @@ Variables are containers used for storing value. Values are stored according to 
 - datatype-2: Object Data Types (Non-primitive)
     - String
     - List
+
+## Wrapper Class
+- mechanism to convert primitive into object
+    -  int => Integer
+    -  float => Float
     
 ## Types of variables in Java
     1. local variable
