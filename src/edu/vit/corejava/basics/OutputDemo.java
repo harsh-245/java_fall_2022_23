@@ -1,3 +1,5 @@
+package edu.vit.corejava.basics;
+
 import java.io.PrintWriter;
 import java.util.logging.Logger;
 

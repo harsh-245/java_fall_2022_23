@@ -1,3 +1,5 @@
+package edu.vit.corejava.basics;
+
 import java.util.Scanner;
 
 public class TernaryOperatorDemo {

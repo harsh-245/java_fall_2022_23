@@ -70,6 +70,19 @@ public class VariableDemo {
     }
 }
 ```    
+- Output
+```console
+    10
+    Size of an Integer Type: 4 Bytes
+    Minimum Range of Integer: -2147483648
+    Maximum Range of Integer: 2147483647
+    Size of Double Type: 8 Bytes
+    Minimum Range of Double: 4.9E-324
+    Maximum Range of Double: 1.7976931348623157E308
+    Size of Character Type: 2 Bytes
+    Minimum Range of Character: 0
+    Maximum Range of Character: 65535
+```
 
 ## Types of variables in Java
     1. local variable
