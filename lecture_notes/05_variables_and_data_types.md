@@ -12,8 +12,8 @@ int minimumTemperature = 10;
     - `int`
     - long
     - `char`
-    - `float`
-    - double
+    - float
+    - `double`
     - `boolean`
 - datatype-2: Object Data Types (Non-primitive)
     - java.lang.String
