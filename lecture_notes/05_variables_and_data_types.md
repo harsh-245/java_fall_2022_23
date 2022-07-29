@@ -29,7 +29,9 @@ int minimumTemperature = 10;
     3. instance variable
 
 ## Constant in Java
-- 
+- value that cannot be changed.
+- Syntax: `static final datatype IDENTIFIER_NAME=value;`
+
 ```java
     public class ConstantDemo {
         public static final double PI = 311415;
