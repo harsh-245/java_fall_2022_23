@@ -1,4 +1,7 @@
 # Variables and Datatypes in Java
+- Author: `Anthoniraj Amalanathan`
+- Date: 28-Jul-2022
+
 Variables are containers used for storing value. Values are stored according to its type
 - Syntax: `datatype variableName = value;`
 int minimumTemperature = 10;
