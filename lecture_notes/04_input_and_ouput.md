@@ -24,6 +24,7 @@ public class App {
 
 ### Console Class
 - Console class has two methods `readLine()` and `readPassword()` for getting input from the keyboard.
+
 ```java
 package edu.vit.corejava.basics;
 
@@ -47,6 +48,7 @@ public class ConsoleDemo {
     }
 }
 ```
+
 ### Scanner Class
 - `Scanner` is the standard class in Java for getting Console Input
 - You can get the required data type using `Scanner` instead of always 'String' like Console Class
@@ -81,6 +83,7 @@ public class ScannerDemo {
 ```
 ## Types of Output
 ### Using PrintWriter
+
 ```java
     import java.io.PrintWriter;
 
