@@ -29,6 +29,13 @@ int minimumTemperature = 10;
     3. instance variable
 
 ## Constant in Java
+- 
+```java
+    public class ConstantDemo {
+        public static final double PI = 311415;
+        public static final int MIN_CREDITS = 16;
+    }
+```
 
 
 
