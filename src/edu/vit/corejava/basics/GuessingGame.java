@@ -12,7 +12,7 @@ public class GuessingGame {
         int answer = 23;
         Scanner sc = new Scanner(System.in);
         System.out.print("What Number am i thinking of? ");
-        while (true) {
+        while (true) { // Infinite Loop
             int guessedNumber = sc.nextInt();
             if (guessedNumber < answer) {
                 System.out.println("Little Higher!");
@@ -20,7 +20,7 @@ public class GuessingGame {
                 System.out.println("Little Lower!");
             } else { // guessedNumber == answer
                 System.out.println("Mind Reader!");
-                break; // Will terminate the loop
+                break; // will terminate the loop
             }
         }
     }
