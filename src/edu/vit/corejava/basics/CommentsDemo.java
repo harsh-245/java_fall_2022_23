@@ -1,3 +1,5 @@
+package edu.vit.corejava.basics;
+
 /*
  * Demo Program for Java Comments. This is Javadoc Comments
  * @author Anthoniraj Amalanathan

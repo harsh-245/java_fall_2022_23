@@ -1,4 +1,4 @@
-package edu.vit.corejva.basics;
+package edu.vit.corejava.basics;
 
 import java.util.Scanner;
 
