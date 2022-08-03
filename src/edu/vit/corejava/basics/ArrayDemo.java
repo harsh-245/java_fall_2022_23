@@ -1,7 +1,8 @@
 package edu.vit.corejava.basics;
 
-/*
+/**
  * Java Arrays Demo
+ * 
  * @author Anthoniraj Amalanathan
  * @since 02-Aug-2022
  */
