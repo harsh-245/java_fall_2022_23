@@ -1,11 +1,7 @@
 package edu.vit.corejava.basics;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
-import java.util.stream.Collector;
-
-import javafx.print.Collation;
 
 /*
  * Java Arrays Demo
