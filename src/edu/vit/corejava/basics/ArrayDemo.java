@@ -28,11 +28,6 @@ public class ArrayDemo {
         iValues.add(10);
         iValues.add(20);
         iValues.add(8);
-        System.out.println("**********");
-        System.out.println(iValues);
-        Collections.sort(iValues);
-        System.out.println(iValues);
-        System.out.println("************");
 
         for (int i = 0; i < iValues.size(); i++) {
             System.out.println(i + " " + iValues.get(i));
