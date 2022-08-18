@@ -1,0 +1,12 @@
+# Java Array of Objects
+- When to use Parameterized Constructor?
+- When to use Getter and Setter?
+- When to use toString()
+- Conventions should be followed 
+    - doc comments
+    - variableName
+    - methodName
+    - ClassName
+    - NormalClass
+    - DriverClass
+- Array of Objects
