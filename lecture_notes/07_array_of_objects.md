@@ -8,5 +8,5 @@
     - methodName
     - ClassName
     - NormalClass
-    - DriverClass
+    - DriverClass/TestClass
 - Array of Objects
