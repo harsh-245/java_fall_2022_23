@@ -79,8 +79,14 @@ public class StudentTest {
         student[0] = new Student("BCE100", "Jerry", 76.5, 3);
         student[1] = new Student("BCE101", "Karolyn", 82.5, 3);
         student[2] = new Student("BCB205", "Derby", 54.5, 3);
+
+        /*
+         * You can call different types of constructor as per requirement
+         * The new Student() will call no arg constructor and ALL properties
+         * of this Object (student[3]) will be initialized as NULL
+         */
         student[3] = new Student();
-        System.out.println(student[1]..toString());
+        System.out.println(student[3].toString());
 
         /* Update Student BCB205 Java Mark */
         student[2].setJavaMark(60.5);
@@ -88,5 +94,12 @@ public class StudentTest {
 
         /* Retrieve Java Mark of BCE101 */
         System.out.println(student[1].getRegisterNumber() + ": " + student[1].getJavaMark());
+
+        /**
+         * Output
+         * Student [registerNumber=null, name=null, javaMark=null, totalCredits=null]
+         * Student [registerNumber=BCB205, name=Derby, javaMark=60.5, totalCredits=3]
+         * BCE101: 82.5
+         */
     }
 }
