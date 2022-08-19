@@ -75,6 +75,7 @@ class Student {
 public class StudentTest {
     /* This is the Test class for Student */
     public static void main(String[] args) {
+        /* Syntax for creating array of Objects */
         Student student[] = new Student[10];
         student[0] = new Student("BCE100", "Jerry", 76.5, 3);
         student[1] = new Student("BCE101", "Karolyn", 82.5, 3);
