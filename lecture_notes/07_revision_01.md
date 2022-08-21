@@ -33,5 +33,5 @@
 ## Conditional statements and Loops
 - Logical Operators (&& ||)
 - if-elseif-else
-- while loop
+- while and for loop
 - do-while loop for continuous iteration
