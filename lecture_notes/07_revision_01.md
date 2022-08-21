@@ -1,4 +1,12 @@
 # Java and OOP Basics
+- Author: Anthoniraj Amalanathan
+- Date: 22-Aug-2022
+
+## Using Comments
+- `javadoc` comments (/** */)
+- single line comments (//)
+- multi line comments(/* */)
+
 ## Input and Output
 - Input using scanner
 - `nextLine()` method after Input
