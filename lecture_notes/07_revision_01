@@ -1,25 +1,26 @@
 # Java and OOP Basics
 ## Input and Output
 - Input using scanner
-- nextLine() method after Input
-- Output using System.out.println
-- print() vs println()
+- `nextLine()` method after Input
+- Output using `System.out.println()`
+- `print()` vs` println()`
 
 ## String class
 - Creating String Object
-- length() method
-- equals() and equalsIgnoreCase() method
-- toUpperCase() and toLowerCase() method
-- matches() method
+- `length()` method
+- `equals()` and `equalsIgnoreCase()` method
+- `toUpperCase()` and `toLowerCase()` method
+- `matches()` method
 
 ## Java Class Structure
-- declare properties
-- create required constructors
-- create  getter and setter methods
-- create toString() method
+- declare `properties`
+- create required `constructors`
+- create  `getter and setter` methods
+- create `toString()` method
 
 ## Static Variables and Method
-- when to use?
+- static variable: for `global variable and constant`
+- static method: if the method does not require `access to class properties`
 
 ## Conditional statements and Loops
 - Logical Operators (&& ||)
