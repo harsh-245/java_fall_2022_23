@@ -18,13 +18,17 @@
 - `length()` method
 - `equals()` and `equalsIgnoreCase()` method
 - `toUpperCase()` and `toLowerCase()` method
-- `matches()` method
+- matches() method
+    - `mobileNumber.matches([0-9]+) && mobileNumber.length() == 10`
+    - `name.matches([a-zA-Z]+) && name.length() >= 3`
 
 ## Java Class Structure
 - declare `properties`
 - create required `constructors`
 - create  `getter and setter` methods
 - create `toString()` method
+- use Test class for main method
+- use Array of Objects if required
 
 ## Static Variables and Method
 - static variable: for `global variable and constant`
