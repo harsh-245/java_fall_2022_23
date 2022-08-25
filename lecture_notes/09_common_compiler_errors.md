@@ -92,6 +92,28 @@ public class EmployeeTest {
 }
 ```
 
+## Unreachable Code or Statement
+```java
+class Employee {
+    private String name;
+    public Employee() {}
+    public Employee(String name) {
+        this.name = name;
+    }
+    public String concatUpper(String message) {
+        String newStr = message + this.name;
+        return newStr;
+        newStr.toUpperCase();
+    }
+}
+public class EmployeeTest {
+    public static void main(String[] args) {
+        Employee employee = new Employee("Kumar");
+        System.out.println(employee.concatUpper("Welcome"));
+    }
+}
+```
+
 ## Logical Mistake: Using Logical Operators
 - Write a Java Program for checking given name has only alphabets and minimum 3 characters
 ```java
@@ -107,3 +129,4 @@ public class EmployeeTest {
     }
 }
 ```
+
