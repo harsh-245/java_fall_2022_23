@@ -15,7 +15,7 @@ public class LogicalError {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String name = input.nextLine();
-        if (name.matches("[a-z]+") && name.length() < 3) {
+        if (!name.matches("[a-z]+") && name.length() < 3) {
             System.out.println("Invalid Input");
         } else {
             System.out.println(name);
