@@ -19,9 +19,8 @@ class Employee {
 
     public String concatUpper(String message) {
         String newStr = message + this.name;
-        newStr.toUpperCase();
         return newStr;
-
+        newStr.toUpperCase(); // Statement is in wrong place
     }
 }
 

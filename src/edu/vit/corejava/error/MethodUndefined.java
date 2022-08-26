@@ -15,6 +15,6 @@ class Employee {
 public class MethodUndefined {
     public static void main(String[] args) {
         Employee employee = new Employee("Kumar");
-        System.out.println(employee.setName()); // Spelling mistake in method name
+        System.out.println(employee.setNaem()); // Spelling mistake in method name
     }
 }
