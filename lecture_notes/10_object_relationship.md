@@ -13,9 +13,9 @@
     - `Parent -> Parent Class / Base Class / Super Class`
     - `Children -> Child Class  / Derived Class / Sub Class`
 - Types
-    - Single Inheritance (A->B | Person->Student)
-    - Multilevel Inheritance (A->B->C | Person->Employee->Programmer)
-    - Hierarchical Inheritance (A->B,A->C| Person->Student, Person->Employee) 
+    - Single Inheritance (A->B | `Person->Student`)
+    - Multilevel Inheritance (A->B->C | `Person->Employee->Programmer`)
+    - Hierarchical Inheritance (A->B,A->C| `Person->Student, Person->Employee`) 
 - Keyword Used in Java: `extends`
 - When to use: If the objects are coming under `IS-A` relationship
 - Syntax 
