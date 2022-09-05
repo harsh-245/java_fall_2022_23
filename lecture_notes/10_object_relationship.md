@@ -23,3 +23,8 @@
 class A {}
 class B extends A {}
 ```
+## Visibility Modifier
+- `default`: visible within package (Note: default is not a keyword)
+- `private`: visible within class
+- `protected`: visible within inheritance hierarchy
+- `public`: visible to ALL
