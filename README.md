@@ -11,6 +11,9 @@
 - `Code Spell Checker`:  https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - `FontSize Shortcuts`:  Editor Font Resize using  Ctrl++/Ctrl-- https://marketplace.visualstudio.com/items?itemName=fosshaas.fontsize-shortcuts
 
+## VSCode Themes
+- Dobri Next - Themes and Icons: https://marketplace.visualstudio.com/items?itemName=sldobri.bunker
+
 ## References
 - Oracle Java Coding Conventions: https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
 - Oracle Certified Java Professional (OCJP) : https://blogs.oracle.com/javamagazine/post/java-certification-exam-1z0-829
